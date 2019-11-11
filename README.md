@@ -3,5 +3,5 @@
 ## Professor Paulo Salgado - Semestre 2019.2
 
   ## Alunos:
-  -Arthur Romaguera Lima
-  -Matheus Hopper
+  - Arthur Romaguera
+  - Matheus Hopper
